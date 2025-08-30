@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Program
 
 ```bash
-python drowsiness_detection.py
+python Drowsiness_Detection.py
 ```
 
 ---
