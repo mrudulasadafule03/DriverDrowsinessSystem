@@ -31,7 +31,8 @@ DriverDrowsinessSystem/
 │ └── shape_predictor_68_face_landmarks.dat   # Pre-trained ML model
 │
 ├── Drowsiness_Detection.py   # Main Python script
-├── music.wav # Dependencies
+├── music.wav   # Dependencies
+│── requirements.txt   # Python dependencies
 └── README.md # Documentation
 ```
 
